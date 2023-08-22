@@ -1,4 +1,3 @@
-
 import re
 import sys
 from PyPDF2 import PdfFileWriter, PdfFileReader
